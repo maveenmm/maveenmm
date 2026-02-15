@@ -1,7 +1,7 @@
 # Hi | Hola | Silav | مرحبًا, I’m Maveen 
 
 🎓 M.A. in International Affairs  
-🌍 Focus: Middle East, nationalism, identity
+🌍 Focus: Middle East, nationalism, identity      
 📊 Data Analyst | Geopolitical Risk | R & Statistical Modeling
 Turning complex political data into actionable insights   
 🗣️ Arabic | Spanish | Kurdish | English  
