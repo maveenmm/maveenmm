@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# Hi, I’m Maveen 
+# Hi, I’m Maveen 👋
 
 🎓 M.A. in International Affairs  
 🌍 Focus: Middle East, nationalism, identity  
@@ -33,4 +30,5 @@ Analyzing Kurdish language retention in Turkey (1927–1965)
 
 ## 📫 Contact
 Email: [mm3664a@american.edu]
+
 
