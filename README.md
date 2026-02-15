@@ -1,19 +1,20 @@
-# Hi, I’m Maveen 👋
+# Hi | Hola | Silav | مرحبًا, I’m Maveen 
 
 🎓 M.A. in International Affairs  
 🌍 Focus: Middle East, nationalism, identity  
-📊 Data analysis | R | Quantitative research  
+📊 Data Analyst | Geopolitical Risk | R & Statistical Modeling
+Turning complex political data into actionable insights
 🗣️ Arabic | Spanish | Kurdish | English  
 
 ---
 
-## 🔍 Current Research
+## Current Research
 Terrain-Driven Identity Retention (TIR)  
 Analyzing Kurdish language retention in Turkey (1927–1965)
 
 ---
 
-## 📈 Skills
+## Skills
 - R (data wrangling, regression, visualization)
 - Statistical analysis
 - Policy research & memo writing
@@ -21,14 +22,14 @@ Analyzing Kurdish language retention in Turkey (1927–1965)
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 - Arab Barometer Data Cleaning (Algeria, Morocco, Tunisia)
 - Urban Social Disorder Analysis (R Markdown)
 - Turkish Census Language Retention Study
 
 ---
 
-## 📫 Contact
+## Contact
 Email: [mm3664a@american.edu]
 
 
