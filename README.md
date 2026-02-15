@@ -1,16 +1,36 @@
 ## Hi there 👋
 
 <!--
-**maveenmm/maveenmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Maveen 
 
-Here are some ideas to get you started:
+🎓 M.A. in International Affairs  
+🌍 Focus: Middle East, nationalism, identity  
+📊 Data analysis | R | Quantitative research  
+🗣️ Arabic | Spanish | Kurdish | English  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Current Research
+Terrain-Driven Identity Retention (TIR)  
+Analyzing Kurdish language retention in Turkey (1927–1965)
+
+---
+
+## 📈 Skills
+- R (data wrangling, regression, visualization)
+- Statistical analysis
+- Policy research & memo writing
+- Excel / Google Workspace
+
+---
+
+## 📂 Featured Projects
+- Arab Barometer Data Cleaning (Algeria, Morocco, Tunisia)
+- Urban Social Disorder Analysis (R Markdown)
+- Turkish Census Language Retention Study
+
+---
+
+## 📫 Contact
+Email: [mm3664a@american.edu]
+
